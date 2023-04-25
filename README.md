@@ -1,1 +1,2 @@
-# Main 
+# This repository is only for learning Git's sysntaxes
+So this repo is used for this learning skills...
